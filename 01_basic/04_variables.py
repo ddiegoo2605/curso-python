@@ -7,21 +7,21 @@
 # Asignar una variable
 # solo hace falta poner esto
 my_name = "midudev"
-# print(my_name)
+print(my_name)
 
 age = 32
-# print(age)
+print(age)
 
-# age = 39
-# print(age)
+age = 39
+print(age)
 
 # Tipado dinámico: el tipo de dato se determine en tiempo de ejecución
 # que no tienes que declararlo explícitamente
 name = "midudev"
-# print(type(name))
+print(type(name))
 
 name = 32
-# print(type(name))
+print(type(name))
 
 # Tipado fuerte: Python no realiza conversione de tipo automáticas
 # print(10 + "2")
